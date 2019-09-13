@@ -1,0 +1,4 @@
+StageName,Stage_Number,InputFile,OutputFile
+detect,/Users/bhuvaneshwaribhaskaran/PycharmProjects/videogaze/shot/output/1.mp4_shots.csv,/Users/bhuvaneshwaribhaskaran/PycharmProjects/videogaze/detect/output/1.mp4_shots.csv_faceDetections.csv
+
+Frame number,Shot number,Shot end frame,Bounding boxes (x1_y1_x2_y2)

@@ -1,0 +1,3 @@
+Input:/Users/bhuvaneshwaribhaskaran/PycharmProjects/videogaze/crop/output/1.mp4_5_17.mp4
+Input full path:/Users/bhuvaneshwaribhaskaran/PycharmProjects/videogaze/crop/output/1.mp4_5_17.mp4
+Camera parameters:142.188,142.188,78,78

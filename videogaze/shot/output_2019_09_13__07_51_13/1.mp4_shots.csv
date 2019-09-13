@@ -1,0 +1,10 @@
+StageName,InputFile,OutputFile
+shot_segmentation,/Users/bhuvaneshwaribhaskaran/PycharmProjects/videogaze/videoin/1.mp4,/Users/bhuvaneshwaribhaskaran/PycharmProjects/videogaze/shot/output/1.mp4_shots.csv
+
+Shot start,Shot end
+0,49
+49,151
+151,233
+233,299
+299,383
+383,556

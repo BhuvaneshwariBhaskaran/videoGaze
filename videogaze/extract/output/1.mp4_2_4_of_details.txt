@@ -1,0 +1,10 @@
+Input:/Users/bhuvaneshwaribhaskaran/PycharmProjects/videogaze/crop/output/1.mp4_2_4.mp4
+Input full path:/Users/bhuvaneshwaribhaskaran/PycharmProjects/videogaze/crop/output/1.mp4_2_4.mp4
+Camera parameters:102.083,102.083,56,56
+Output csv:1.mp4_2_4.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 0
+Pose: 1
+Shape parameters: 1
